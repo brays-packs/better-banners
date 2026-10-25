@@ -1,0 +1,20 @@
+{
+  "values": [
+    { "id": "better_banners:star/checkerboard_small", "required": false },
+    { "id": "better_banners:star/checkerboard_medium", "required": false },
+    { "id": "better_banners:star/checkerboard_large", "required": false },
+    { "id": "better_banners:star/checkerboard_cheeky", "required": false },
+    { "id": "better_banners:star/checkerboard_damier", "required": false },
+    { "id": "better_banners:star/checker_plaid_small", "required": false },
+    { "id": "better_banners:star/checker_plaid_medium", "required": false },
+    { "id": "better_banners:star/checker_plaid_large", "required": false },
+    { "id": "better_banners:star/houndstooth", "required": false },
+    { "id": "better_banners:star/quilted_northern", "required": false },
+    { "id": "better_banners:star/quilted_southern", "required": false },
+    { "id": "better_banners:star/candy_stripe_left", "required": false },
+    { "id": "better_banners:star/candy_stripe_right", "required": false },
+    { "id": "better_banners:star/weave_vertical", "required": false },
+    { "id": "better_banners:star/weave_horizontal", "required": false },
+    { "id": "better_banners:star/cobbled", "required": false }
+  ]
+}

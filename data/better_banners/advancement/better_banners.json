@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:black_banner",
+      "components": {
+        "minecraft:banner_patterns": [
+          {
+            "color": "white",
+            "pattern": "better_banners:star/checker_plaid_large"
+          }
+        ]
+      },
+      "count": 1
+    },
+    "title": "Bray's Better Banners",
+    "description": [
+      "",
+      {
+        "text": "Adds a number of new banner patterns to play with\n",
+        "color": "white"
+      },
+	  {
+        "text": "modrinth.com/datapack/brays-better-banners",
+        "color": "dark_purple"
+      }
+    ],
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "bray:fun",
+  "criteria": {
+    "bray.was.here": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

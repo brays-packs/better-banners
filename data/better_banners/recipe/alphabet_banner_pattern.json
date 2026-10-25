@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": false,
+  "ingredients": [
+    "minecraft:book",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "minecraft:clock",
+    "components": {
+      "minecraft:provides_banner_patterns": "#better_banners:alphabet",
+      "minecraft:item_name": "Alphabet Banner Pattern",
+      "minecraft:max_stack_size": 1,
+      "minecraft:item_model": "better_banners:alphabet_banner_pattern",
+	  "minecraft:rarity": "common"
+    },
+    "count": 1
+  }
+}
