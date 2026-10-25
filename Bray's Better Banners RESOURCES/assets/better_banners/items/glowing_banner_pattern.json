@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "better_banners:item/glowing_banner_pattern"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Hoist the colours!\n§fby Bray §dv1.2.1"
+      }
+    ],
+    "pack_format": 97.1,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 999
+    }
+  }
+}
